@@ -10,7 +10,9 @@
   },
   "dependencies": {
     "inklayer-vue": "^1.0.4",
-    "vue": "^3.5.39"
+    "pdf-lib": "^1.17.1",
+    "vue": "^3.5.39",
+    "vue-router": "^4.6.4"
   },
   "devDependencies": {
     "@types/node": "^24.13.2",
